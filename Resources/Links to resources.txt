@@ -1,0 +1,13 @@
+Programming Hive: Data Warehouse and Query Language for Hadoop
+https://www.amazon.com/dp/B009D76316?ref_=cm_sw_r_kb_dp_jEvHzbQ12RKHE&tag=kpembed-20&linkCode=kpe
+
+Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale
+https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet-ebook/dp/B00V7B1IZC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1501911091&sr=1-1&keywords=hadoop+the+definitive+guide
+
+Comprehensive Course Hadoop Analytic Tool: Apache Hive
+https://www.udemy.com/comprehensive-course-on-hadoop-analytic-tool-apache-hive/
+
+Hortonworks Tutorials
+https://hortonworks.com/tutorials/
+
+
