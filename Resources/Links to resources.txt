@@ -10,4 +10,9 @@ https://www.udemy.com/comprehensive-course-on-hadoop-analytic-tool-apache-hive/
 Hortonworks Tutorials
 https://hortonworks.com/tutorials/
 
+Hive Language Manual DDL
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL
+
+Hive Language Manual DML
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DML
 
